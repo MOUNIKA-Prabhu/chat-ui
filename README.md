@@ -1,2 +1,13 @@
-# chat-ui
-A simple chat user interface inspired by social media apps, built using HTML and CSS with message layout and interactive styling.
+# Chat UI
+
+A WhatsApp-style chat interface built using HTML and CSS.
+
+## Technologies
+- HTML5
+- CSS3
+
+## How to Run
+Open index.html in any browser.
+
+## Author
+Mounika – CSBS Student
